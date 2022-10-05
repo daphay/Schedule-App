@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meet Tolani ojo for concert",
+      "day": "Sun 3 Oct, 7pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Meet Abigail for something light ",
+      "day": "Sun 4 Oct, 5pm",
+      "reminder": false
+    },
+    {
+      "text": "Attend Seminar ",
+      "day": "Tue 4 Oct, 10am",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
